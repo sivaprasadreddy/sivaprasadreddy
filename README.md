@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Note to self
+### Before starting a new pet project please please please complete the current WIP projects. 
+
+
 <!--
 **sivaprasadreddy/sivaprasadreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
