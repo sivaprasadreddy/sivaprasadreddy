@@ -1,20 +1,31 @@
-### Hi there 👋
+## Hey there, I'm Siva! 👋
 
-## Note to self
-### Before starting a new pet project please please please complete the current WIP projects. 
+<a href="https://twitter.com/sivalabs">
+  <img alt="sivalabs's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a> &nbsp;
+<a href="https://www.linkedin.com/in/siva-prasad-reddy-katamreddy-3a909172/">
+  <img alt="Siva's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a> &nbsp;
+<a href="https://stackoverflow.com/users/755932/k-siva-prasad-reddy">
+  <img alt="Siva's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a> &nbsp;
+<br/>
+<br/>
+
+- 💻  I’m exploring Quarkus, Kubernetes and GitOps
+- 🌱  I’m planning to write more on "modern java application development in the age of cloud"
+- 💬  Ask me about Java, SpringBoot, Docker, Kubernetes or any tech related stuff.
 
 
-<!--
-**sivaprasadreddy/sivaprasadreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter follow @sivalabs](https://img.shields.io/twitter/follow/sivalabs?style=social)](https://twitter.com/sivalabs) &nbsp;
+[![Linkedin follow @sivalabs](https://img.shields.io/badge/-sivalabs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siva-prasad-reddy-katamreddy-3a909172/)](https://www.linkedin.com/in/siva-prasad-reddy-katamreddy-3a909172/) &nbsp;
+[![Blog](https://img.shields.io/badge/Blog-sivalabs.in-brightgreen)](https://sivalabs.in)
 
-Here are some ideas to get you started:
+**Languages and Tools:**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/sivaprasadreddy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaprasadreddy&theme=light&count_private=true&layout=compact" alt="Siva's most used languages" />
+</a>
+<a href="https://github.com/sivaprasadreddy">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sivaprasadreddy&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Siva's github stats"/>
+</a>
