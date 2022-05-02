@@ -1,5 +1,8 @@
 ## Hey there, I'm Siva! 👋
 
+<a href="https://www.youtube.com/c/SivaLabs">
+  <img alt="sivalabs's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a> &nbsp;
 <a href="https://twitter.com/sivalabs">
   <img alt="sivalabs's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> &nbsp;
