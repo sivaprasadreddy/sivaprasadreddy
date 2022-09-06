@@ -21,7 +21,7 @@
 
 
 [![Twitter follow @sivalabs](https://img.shields.io/twitter/follow/sivalabs?style=social)](https://twitter.com/sivalabs) &nbsp;
-[![Linkedin follow @sivalabs](https://img.shields.io/badge/-sivalabs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siva-prasad-reddy-katamreddy-3a909172/)](https://www.linkedin.com/in/siva-prasad-reddy-katamreddy-3a909172/) &nbsp;
+[![Linkedin follow @sivalabs](https://img.shields.io/badge/-sivalabs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siva-prasad-reddy-katamreddy/)](https://www.linkedin.com/in/siva-prasad-reddy-katamreddy/) &nbsp;
 [![Blog](https://img.shields.io/badge/Blog-sivalabs.in-brightgreen)](https://sivalabs.in)
 
 **Languages and Tools:**  
