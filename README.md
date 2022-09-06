@@ -6,7 +6,7 @@
 <a href="https://twitter.com/sivalabs">
   <img alt="sivalabs's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> &nbsp;
-<a href="https://www.linkedin.com/in/siva-prasad-reddy-katamreddy-3a909172/">
+<a href="https://www.linkedin.com/in/siva-prasad-reddy-katamreddy/">
   <img alt="Siva's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> &nbsp;
 <a href="https://stackoverflow.com/users/755932/k-siva-prasad-reddy">
@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-- 💻  I’m exploring Quarkus, Kubernetes and GitOps
+- 💻  I’m exploring Quarkus, Micronaut, Kubernetes and GitOps
 - 🌱  I’m planning to write more on "modern java application development in the age of cloud"
 - 💬  Ask me about Java, SpringBoot, Docker, Kubernetes or any tech related stuff.
 
