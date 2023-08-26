@@ -1,6 +1,6 @@
 ## Hey there, I'm Siva! 👋
 
-<a href="https://www.youtube.com/c/SivaLabs">
+<a href="https://www.youtube.com/c/sivalabs">
   <img alt="sivalabs's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a> &nbsp;
 <a href="https://twitter.com/sivalabs">
@@ -21,8 +21,8 @@
 
 
 [![Twitter follow @sivalabs](https://img.shields.io/twitter/follow/sivalabs?style=social)](https://twitter.com/sivalabs) &nbsp;
-[![Linkedin follow @sivalabs](https://img.shields.io/badge/-sivalabs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siva-prasad-reddy-katamreddy/)](https://www.linkedin.com/in/siva-prasad-reddy-katamreddy/) &nbsp;
-[![Blog](https://img.shields.io/badge/Blog-sivalabs.in-brightgreen)](https://sivalabs.in)
+[![Linkedin follow @sivalabs](https://img.shields.io/badge/-sivalabs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sivaprasadreddy/)](https://www.linkedin.com/in/siva-prasad-reddy-katamreddy/) &nbsp;
+[![Blog](https://img.shields.io/badge/Blog-sivalabs.in-brightgreen)](https://www.sivalabs.in)
 
 **Languages and Tools:**  
 
