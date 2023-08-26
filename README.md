@@ -6,7 +6,7 @@
 <a href="https://twitter.com/sivalabs">
   <img alt="sivalabs's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> &nbsp;
-<a href="https://www.linkedin.com/in/siva-prasad-reddy-katamreddy/">
+<a href="https://www.linkedin.com/in/ksivaprasadreddy/">
   <img alt="Siva's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> &nbsp;
 <a href="https://stackoverflow.com/users/755932/k-siva-prasad-reddy">
