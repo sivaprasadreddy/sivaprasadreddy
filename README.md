@@ -16,12 +16,12 @@
 <br/>
 
 - 💻  Building Software since 2006
-- 💬  Extensively worked on Java, SpringBoot, Docker, Kubernetes or any tech related stuff.
+- 💬  Extensively worked on Java, Kotlin, Go, Spring Boot, Docker, Kubernetes, etc
 - 🌱  Interested in learning new technologies.
 
 
 [![Twitter follow @sivalabs](https://img.shields.io/twitter/follow/sivalabs?style=social)](https://twitter.com/sivalabs) &nbsp;
-[![Linkedin follow @sivalabs](https://img.shields.io/badge/-sivalabs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sivaprasadreddy/)](https://www.linkedin.com/in/siva-prasad-reddy-katamreddy/) &nbsp;
+[![Linkedin follow @sivalabs](https://img.shields.io/badge/-sivalabs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ksivaprasadreddy/)](https://www.linkedin.com/in/ksivaprasadreddy/) &nbsp;
 [![Blog](https://img.shields.io/badge/Blog-sivalabs.in-brightgreen)](https://www.sivalabs.in)
 
 **Languages and Tools:**  
