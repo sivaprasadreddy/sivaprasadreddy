@@ -1,23 +1,36 @@
 ## Hey there, I'm Siva! 👋
 
-<a href="https://www.youtube.com/c/sivalabs">
-  <img alt="sivalabs's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a> &nbsp;
-<a href="https://twitter.com/sivalabs">
-  <img alt="sivalabs's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> &nbsp;
-<a href="https://www.linkedin.com/in/ksivaprasadreddy/">
-  <img alt="Siva's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> &nbsp;
+🚀 Software Engineer | 🧠 System Design Enthusiast | ✍️ Technical Content Creator
 
-<br/>
-<br/>
+---
 
-- 💻  Building Software since 2006
-- 💬  Extensively worked on Java, Kotlin, Go, Spring Boot, Docker, Kubernetes, etc
-- 🌱  Interested in learning new technologies.
+### 👨‍💻 About Me
 
+- 💻 Building software since **2006**
+- 🧩 Focused on **software architecture, modular systems, maintainability**
+- ⚙️ Designing **scalable backend systems**
+- 🤖 Exploring **AI-powered developer tooling**
+- ✍️ Writing at [SivaLabs Blog](https://www.sivalabs.in)
+- 🎥 Sharing on [YouTube](https://www.youtube.com/sivalabs)
 
-[![Twitter follow @sivalabs](https://img.shields.io/twitter/follow/sivalabs?style=social)](https://twitter.com/sivalabs) &nbsp;
-[![Linkedin follow @sivalabs](https://img.shields.io/badge/-sivalabs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ksivaprasadreddy/)](https://www.linkedin.com/in/ksivaprasadreddy/) &nbsp;
-[![Blog](https://img.shields.io/badge/Blog-sivalabs.in-brightgreen)](https://www.sivalabs.in)
+---
+
+### 🔗 Connect with me
+
+- LinkedIn: [ksivaprasadreddy](https://www.linkedin.com/in/ksivaprasadreddy)
+- Twitter: [@sivalabs](https://twitter.com/sivalabs)
+- YouTube: [SivaLabs](https://www.youtube.com/sivalabs)
+- Blog: [SivaLabs](https://www.sivalabs.in)
+- Bluesky: [sivalabs.in](https://bsky.app/profile/sivalabs.in)
+
+---
+
+### 🚀 Current Focus
+
+- 🤝 Developer productivity using AI
+- 🧠 AI-powered application development
+- 🏗️ Architecting software without over-engineering
+
+---
+
+⭐️ *I enjoy building useful systems and sharing what I learn along the way.*
